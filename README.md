@@ -1,6 +1,9 @@
 
 # 这里 开始 写组件第一部分 
-
+* 每个前端都应该有个自己的组件库（理想）
+* 当前组件库用来学习和练手，它类似于Antd 
+* 当然你可不断进行练习和完善组件库
+* 配合我发出的讲解视频，效果奇佳，视频请访问知乎部分 https://www.zhihu.com/people/Mark_Fu_fhj
 
 # Getting Started with Create React App
 
